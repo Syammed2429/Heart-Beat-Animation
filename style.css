@@ -45,7 +45,7 @@ animation-iteration-count: infinite;
     left: 25px;
   }
   .heart:before {
-    background-color: pink;
+    background-color: red;
     content: "";
     border-radius: 50%;
     position: absolute;
