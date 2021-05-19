@@ -26,7 +26,7 @@ h1 {
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: pink;
+    background-color: red;
     height: 50px;
     width: 50px;
     transform: rotate(-45deg);
@@ -35,7 +35,7 @@ h1 {
 animation-iteration-count: infinite;
   }
   .heart:after {
-    background-color: pink;
+    background-color: red;
     content: "";
     border-radius: 50%;
     position: absolute;
