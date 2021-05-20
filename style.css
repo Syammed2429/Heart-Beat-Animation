@@ -70,6 +70,6 @@ animation-iteration-count: infinite;
 /*ANimation the background*/
   @keyframes backdev {
       50% {
-          background: pink;
+          background: black;
       }
   }
